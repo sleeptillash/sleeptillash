@@ -18,7 +18,5 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sleeptillash&theme=merko&border_radius=14.5)](https://git.io/streak-stats)
-
 
 
