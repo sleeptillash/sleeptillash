@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from India.</h3>
 
 
--  I’m currently working.. **Something Cool**coming soon
+-  I’m currently working.. **Something Cool** coming soon
 
 -  I’m currently learning about **Containerization, AWS and Microservices**
 
